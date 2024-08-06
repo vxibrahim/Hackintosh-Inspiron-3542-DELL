@@ -1,4 +1,4 @@
-# Hackintosh-Inspiron-3542-DELL
+# Hackintosh Inspiron 3542 DELL
 EFI for my Dell Inspiron 15 3542 currently running MacOS monterey. Dortania's open-core guide was used to make this hackintosh. Its still a work in-progress.
 
 ![Monterey Screenshot](https://9to5mac.com/wp-content/uploads/sites/6/2022/01/install-macos-monterey-beta.jpg?quality=82&strip=all)
