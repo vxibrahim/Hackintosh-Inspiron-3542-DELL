@@ -49,6 +49,7 @@ Personally, I will recommend you to make your own EFI as that way you will actua
 
 - WLAN not working due to dropped support for Dell Wireless 1705 after macOS 10.12
 - Bluetooth not working (no BT card)
+- NO AUDIO
 - Excessively long boot-up time
 - Keyboard sometimes not working after sleep
 - 2/3 USB ports not working (Not mapped yet)
