@@ -1,11 +1,15 @@
 > :warning: This project is still in development, I am not responsible for any damage to your system.
 
-> :warning: PLEASE READ THE GUIDE SECTION BEFORE ATTEMPTING TO USE MY EFI
+## :warning: PLEASE READ THE GUIDE SECTION BEFORE ATTEMPTING TO USE MY EFI
 
 # Hackintosh Inspiron 3542 DELL
 EFI + GUIDE for my Dell Inspiron 15 3542 currently running MacOS monterey. Dortania's open-core guide was used to make this hackintosh. Its still a work in-progress.
 
+Guide step 3 is necessary because you need to enter SMBIOS info in the config.plist yourself. Go over it.
+
 ![Monterey Screenshot](https://9to5mac.com/wp-content/uploads/sites/6/2022/01/install-macos-monterey-beta.jpg?quality=82&strip=all)
+
+Personally, I will recommend you to make your own EFI as that way you will actually learn how to fix issues that come up, this is a shortcut and teaches you nothing and might leave you confused if you encounter issues. However I will try to assist, feel free to open a ticket.
 
 # INDEX
 - **Hardware Info**
