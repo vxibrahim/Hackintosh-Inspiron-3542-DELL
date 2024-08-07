@@ -56,6 +56,7 @@ EFI + GUIDE for my Dell Inspiron 15 3542 currently running MacOS monterey. Dorta
 > :warning: If the specs don't match theres a 99% chance that the hackintosh won't work properly in that case you are on your own, you are welcome to use my EFI and modify it to your needs and I wish you goodluck.
 
 Lets start! THIS GUIDE IS ORIENTED FROM A WINDOWS USER PERSPECTIVE PLEASE KEEP IT IN MIND.
+
 Skip to 3 if you have already configured ur USB and recovery folder.
 
 **WHAT YOU WILL NEED BEFORE USING MY EFI**
